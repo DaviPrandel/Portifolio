@@ -10,7 +10,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: black;
+    background-color: rgb(19, 17, 17);
     color: white;
 }
 
@@ -38,7 +38,7 @@ p {
    text-align: justify;
 }
 
-.container {
+.principal {
     display: flex;
     align-items: center; 
     justify-content: space-between; 
